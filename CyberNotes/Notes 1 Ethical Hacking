@@ -1,0 +1,21 @@
+Look into learning about Active Directory,
+ For Note taking on Linux get: KeepNote or Cherrytree
+
+ 
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+ Introduction: 
+	 Topics: IP Addresses 
+	 MAC Addresses
+	 TCP, UDP, and Three-Way Handshake
+	 Common Ports and Protocols
+	 The OSI Model
+	 SUbnetting 
+
+		IP Addresses: In the kali linux terminal type in the command "ifconfig", this will bring up the IP address.
+
+			Example:  "inet 192.168.57.139" This is a IP V4 (Decimal Notation). There is also the inet6 "fe80::20c:29ff:fe0a:4205" which is considered IP V6 (Hexadecimal Notation).
+
+			The IPV4 is how computers communicate.  
